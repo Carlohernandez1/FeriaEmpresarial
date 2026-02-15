@@ -1,4 +1,8 @@
 # Feria Empresarial (Java - Consola)
+Este repositorio contiene el desarrollo de la guia 1. Activdad 1 y 2
+
+Actividad 1. Diagramas de clases en UML - Desarrollo de un diagrama de clases UML para la «Serie de Ejercicios de Modelado No. 1» (individual).
+Actividad 2. Programación Orientada por Objetos básica en Java- Proyecto “Feria empresarial” desarrollado en el lenguaje de programación Java. Este proyecto, desarrollado de manera individual por el estudiante, debe estar guardado en un repositorio Git compartido y construido en algún IDE tradicional de Java (Eclipse, IntelliJ o NetBeans) (individual).
 
 Aplicación de consola en Java para gestionar una feria empresarial:
 
